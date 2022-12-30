@@ -138,6 +138,6 @@
   },
   "cacheDirectories": [
     ".next/cache"
-  ]
+  ],
   "engines": { "node": "18.x" } 
 }
