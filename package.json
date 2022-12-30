@@ -139,5 +139,5 @@
   "cacheDirectories": [
     ".next/cache"
   ],
-  "engines": { "node": "16.19.0 } 
+  "engines": { "node": "16.19.0" } 
 }
